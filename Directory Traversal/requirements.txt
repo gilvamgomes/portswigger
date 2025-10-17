@@ -1,0 +1,3 @@
+# Dependências necessárias para rodar os scripts de Path Traversal
+requests
+urllib3
